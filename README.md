@@ -7,7 +7,11 @@ My cybersecurity lab journal and project write-ups
 
 **1.1 Security Controls**
 There a 4 control categories, in my own words:
-- Technical:
-- Managerial:
-- Operational:
-- Physical: 
+- Technical: Controls implemented using systems
+- Managerial: Admin controls associated w/ security
+- Operational: Controls implemented by people instead of systems
+- Physical:
+            ~ Limit physical access
+            ~ Guard shocks
+            ~ Fences, locks
+            ~ Badge readers
